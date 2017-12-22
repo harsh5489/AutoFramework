@@ -2,5 +2,13 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/gupta518/Desktop/FIT/FIT_BSS_Fixed/supportlibraries/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gupta518/Desktop/FIT/FIT_BSS_Fixed/supportlibraries/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gupta518/Desktop/FIT/FIT_BSS_Fixed/supportlibraries/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gupta518/Desktop/FIT/FIT_BSS_Fixed/supportlibraries/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gupta518/Desktop/FIT/FIT_BSS_Fixed/supportlibraries/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gupta518/Desktop/FIT/FIT_BSS_Fixed/supportlibraries/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gupta518/Desktop/FIT/FIT_BSS_Fixed/supportlibraries/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gupta518/Desktop/FIT/FIT_BSS_Fixed/supportlibraries/selenium-server-standalone-2.52.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

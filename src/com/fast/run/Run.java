@@ -1,5 +1,6 @@
 package com.fast.run;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.fast.core.ResultManager;
@@ -28,7 +29,7 @@ public class Run extends ResultManager{
 	
 	public List<TestParameters> getDetails(String sheetName)
 	{
-		List<TestParameters> testParam;
+		List<TestParameters> testParam=new ArrayList<TestParameters>() ;
 		return testParam;
 	}
 }
